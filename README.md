@@ -21,6 +21,3 @@ SmartCapture is a sophisticated surveillance system that combines cutting-edge f
 
 ## Contributing
 Contributions to SmartCapture are welcome! If you have ideas for new features, improvements, or bug fixes, please submit a pull request or open an issue on GitHub.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
