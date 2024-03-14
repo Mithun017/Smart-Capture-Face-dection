@@ -11,8 +11,8 @@ SmartCapture is a sophisticated surveillance system that combines cutting-edge f
 - Scalability: SmartCapture is designed to scale with the needs of your organization, whether you're monitoring a single location or multiple sites.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/smartcapture.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
+1. Install the required dependencies: `pip install -r requirements.txt`
+2. Clone the repository: `git clone https://github.com/mithun/smartcapture.git`
 
 ## Usage
 1. Run the `smartcapture.py` script to start the surveillance system.
